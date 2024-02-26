@@ -14,7 +14,7 @@ Nota Importante: O download de vídeos do YouTube pode violar os Termos de Servi
 ## Requisitos
 Python 3.x
 ## Instalação
-Clone o repositório: git clone https://github.com/seu-usuario/purple-flash.git
+Clone o repositório: git clone https://github.com/marcos-do-amaral-miotto/Purple-Flash.git
 Navegue até o diretório do projeto: cd purple-flash
 ## Uso
 Dentro da interface do aplicativo, coloque a URL do vídeo ou playlist a ser baixada e espere até o título do vídeo aparecer, depois é só escolher as especificações de download, a pasta para download e clicar em download!
